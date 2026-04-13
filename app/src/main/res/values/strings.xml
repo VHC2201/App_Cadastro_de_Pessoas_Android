@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Trabalho Bimestral</string>
+    <string name="title_main">Cadastro</string>
+    <string name="title_result">Confirmação de Dados</string>
+    <string name="title_about">Sobre</string>
+    <string name="menu_about">Sobre</string>
+
+    <string name="label_nome">Nome:</string>
+    <string name="label_idade">Idade:</string>
+    <string name="label_endereco">Endereço:</string>
+    <string name="hint_nome">Digite seu nome</string>
+    <string name="hint_idade">Digite sua idade</string>
+    <string name="hint_endereco">Digite seu endereço</string>
+
+    <string name="btn_salvar">Salvar Dados</string>
+    <string name="question_correct">Seus dados estão corretos?</string>
+    <string name="btn_sim">Sim</string>
+    <string name="btn_nao">Não</string>
+    <string name="toast_saved">Cadastro salvo com sucesso!</string>
+
+    <string name="desc_icone_sobre">Ícone de Informações</string>
+    <string name="dados_curso">Sistemas de Informação\nUNIPAR</string>
+    <string name="titulo_equipe">Desenvolvido por:</string>
+    
+    <string name="integrante_1">Vinicius Henrique Cordeiro da Silva\nRA: 60002252</string>
+</resources>
